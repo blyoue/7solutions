@@ -1,0 +1,26 @@
+{
+  "name": "groupbydepartment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha dist/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/chai": "^5.0.1",
+    "@types/express": "^5.0.0",
+    "@types/jest": "^29.5.14",
+    "@types/mocha": "^10.0.9",
+    "@types/node": "^22.9.0",
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2",
+    "typescript": "^5.6.3"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
